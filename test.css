@@ -5,3 +5,26 @@
 #surjo{
     color: blueviolet;
 }
+.box{
+    padding: 10px;
+    background-color: mediumseagreen;
+    width: 120px;
+    height: 110px;
+   
+}
+.box2{
+    background-color: rgb(60, 15, 220);
+    /* margin: 30px; */
+}
+.box3{
+    background-color: orange;
+    /* height: 50px; */
+}
+#container{
+    display: flex;
+    justify-content: space-around;
+    /* flex-direction: row-reverse; */
+    height: 500px;
+    border: 2px solid black;
+    align-items: center;
+}
